@@ -1,0 +1,10 @@
+doctype html
+html
+	head
+		title = "Hello Pug"
+	body
+		
+		h1 name
+			
+		a(href = url) My Website	
+		img(src = "/img.jpg", alt = "Image"
